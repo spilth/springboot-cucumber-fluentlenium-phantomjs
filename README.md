@@ -9,17 +9,31 @@
 
 ## Steps
 
-Install Java
-Install maven
-Create Pom
-Add cucumber
-Write feature
-Create cucumber runner
-Integrate with fluentlium
-Stand up web app
-Hit page see message
-Random port
+### Install Java
 
+### Install Maven
+
+### Install PhantomJS
+
+### Create POM
+
+### Add cucumber
+
+### Write feature
+
+### Create Cucumber Test Runner
+
+### Integrate with Fluentlium
+
+### Stand up Spring web app
+
+### Hit page see message
+
+### Random port
+
+Is Jenkins using port 8080 and so does your Spring Web App?
+
+TK
 
 ## Resources
 
